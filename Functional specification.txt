@@ -1,3 +1,5 @@
 Functional specification 
 
 FunGo app
+
+Fungo App for dev's branch
