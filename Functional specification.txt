@@ -1,0 +1,3 @@
+Functional specification 
+
+FunGo app
